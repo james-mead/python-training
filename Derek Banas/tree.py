@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # 1. Decrement spaces by 1 each time in the loop
 # 2. Increment the hashes by 2 each time in the loop
 # 3. Save space to the stump by calculating tree height -1

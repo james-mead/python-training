@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # ---------- PROBLEM : ACRONYM GENERATOR ----------
 # You will enter a string and then convert it to an acronym
 # with uppercase letters like this

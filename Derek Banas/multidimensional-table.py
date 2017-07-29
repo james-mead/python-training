@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # ---------- PROBLEM : CREATE MULTIPLICATION TABLE ----------
 # With 2 for loops fill the cells in a multidimensional
 # list with a multiplication table using values 1 - 9

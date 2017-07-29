@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # ---------- PROBLEM : SECRET STRING ----------
 # Receive a uppercase string and then hide its meaning by turning
 # it into a string of unicodes

@@ -4,6 +4,7 @@ Ages 6 through to 17 goes to grades 1 through 12
 If age is greater than 17, go to college
 '''
 
+#!/usr/bin/python3
 # Ask user to input age
 age = input("What is your age? ")
 

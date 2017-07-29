@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # ---------- LEARN TO PROGRAM 9 ----------
  
 # Real world objects have attributes and capabilities

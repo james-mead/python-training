@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Have the user enter their investment amount and expected interest
 # Each year their investment will increase by their investment + their investment * interest
 # Print out the earnings after a ten year period
